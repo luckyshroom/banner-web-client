@@ -5,8 +5,6 @@ Web client for banner REST API
 
 Runnable options:
 
-Before running: $yarn install
-
-Run "start" script from package.json
+Run $yarn install and after it "start" script from package.json
 
 Default API_BASE_URL: http://localhost:8080/
