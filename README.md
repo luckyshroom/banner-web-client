@@ -1,5 +1,5 @@
 # banner-web-client
-Web client for banner REST api
+Web client for banner REST API
 
 ![alt text](https://cdn.depa.io/images/png/banner/client-view.png)
 
