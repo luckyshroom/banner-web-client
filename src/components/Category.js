@@ -3,9 +3,9 @@ import Panel from "./Panel";
 import {connect} from "react-redux";
 import {createCategory, getCategoryList, updateCategory} from "../actions/categoryAction";
 import {debounce} from "lodash";
-import {ABC_NUM_REGEX, API_BASE_URL} from "../constants";
 import {request} from "../utils/APIUtils";
 import {setStatus} from "../utils/FormValidatorHelper";
+import {ABC_NUM_REGEX, API_BASE_URL} from "../constants";
 
 class Category extends Component {
 

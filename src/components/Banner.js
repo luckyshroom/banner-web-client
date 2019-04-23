@@ -4,11 +4,11 @@ import Select from "react-select";
 import {connect} from "react-redux";
 import {debounce} from "lodash";
 import {createBanner, getBannerList, updateBanner} from "../actions/bannerAction";
+import {getCategoryList} from "../actions/categoryAction";
 import {request} from "../utils/APIUtils";
 import {setStatus} from "../utils/FormValidatorHelper";
 import {ABC_NUM_REGEX, API_BASE_URL} from "../constants";
 import {REACT_SELECT_STYLES} from "../constants/defaultStyles";
-import {getCategoryList} from "../actions/categoryAction";
 
 class Banner extends Component {
 
