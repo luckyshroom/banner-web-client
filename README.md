@@ -1,7 +1,7 @@
 # banner-web-client
 Web client for banner REST API
 
-![alt text](https://cdn.depa.io/images/png/banner/client-view.png)
+![Image of interface](https://cdn.depa.io/images/png/banner/client-view.png)
 
 Runnable options:
 
